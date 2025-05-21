@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Blog article web app**
 
-- 🌱 I’m currently learning **vue, react, django, springboot**
+- 🌱 I’m currently learning **machine learning and system design**
 
 - 👨‍💻 All of my projects are available at [https://kondwanisakala.netlify.app](https://kondwanisakala.netlify.app)
 
